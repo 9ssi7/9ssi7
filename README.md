@@ -14,7 +14,7 @@ Skills: REACT / JAVASCRIPT / JAVA / HTML / CSS
 - 💬 Ask me about Front-end infos 
 - 📫 How to reach me: https://ssi-blog-v2.herokuapp.com and sami.salih@windowslive.com 
 
-[<img src='./images/github.png' alt='github' style="color:" height='64'>](https://github.com/ssibrahimbas) &nbsp;&nbsp; [<img src='./images/linkedin.png' alt='linkedin' height='64'>](https://www.linkedin.com/in/ssibrahimbas/)&nbsp;&nbsp;  [<img src='./images/www.png' alt='website' height='64'>](https://ssi-blog-v2.herokuapp.com)  
+[<img src='./images/github.png' alt='github' style="color:" height='32'>](https://github.com/ssibrahimbas) &nbsp;&nbsp; [<img src='./images/linkedin.png' alt='linkedin' height='32'>](https://www.linkedin.com/in/ssibrahimbas/)&nbsp;&nbsp;  [<img src='./images/www.png' alt='website' height='32'>](https://ssi-blog-v2.herokuapp.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas)](https://github.com/anuraghazra/github-readme-stats)
  
