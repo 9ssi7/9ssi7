@@ -16,7 +16,7 @@ Skills: REACT / JAVASCRIPT / JAVA / HTML / CSS
 
 [<img src='./images/github.png' alt='github' style="color:" height='32'>](https://github.com/ssibrahimbas) &nbsp;&nbsp; [<img src='./images/linkedin.png' alt='linkedin' height='32'>](https://www.linkedin.com/in/ssibrahimbas/)&nbsp;&nbsp;  [<img src='./images/www.png' alt='website' height='32'>](https://ssi-blog-v2.herokuapp.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas)]()
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true)  
 
