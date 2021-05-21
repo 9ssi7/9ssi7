@@ -14,15 +14,14 @@ Skills: REACT / JAVASCRIPT / JAVA / HTML / CSS
 - 💬 Ask me about Front-end infos 
 - 📫 How to reach me: https://ssi-blog-v2.herokuapp.com and sami.salih@windowslive.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssibrahimbas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ssibrahimbas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ssi-blog-v2.herokuapp.com)  
+[<img src='https://img-premium.flaticon.com/png/512/779/779088.png?token=exp=1621592028~hmac=5ce3be24092c762928d47c5b1343ff42' alt='github' style="color:" height='64'>](https://github.com/ssibrahimbas) &nbsp;&nbsp; [<img src='https://img-premium.flaticon.com/png/512/2111/2111499.png?token=exp=1621592047~hmac=d8507794b579008cdb303dc0edc0305c' alt='linkedin' height='64'>](https://www.linkedin.com/in/ssibrahimbas/)&nbsp;&nbsp;  [<img src='https://img-premium.flaticon.com/png/512/841/841364.png?token=exp=1621592191~hmac=2a6e2449f9eb505cf14ddebaf9bd9b90' alt='website' height='64'>](https://ssi-blog-v2.herokuapp.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ssibrahimbas)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ssibrahimbas)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ssibrahimbas)  
 
 ![Profile views](https://gpvc.arturio.dev/ssibrahimbas)  
