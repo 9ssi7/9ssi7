@@ -12,7 +12,7 @@ Skills: REACT / JAVASCRIPT / JAVA / HTML / CSS
 - 🌱 I’m currently learning Front-end and Back-end 
 - 🤔 I’m looking for help with your evaluations  
 - 💬 Ask me about Front-end infos 
-- 📫 How to reach me: www.samisalihibrahimbas.com.tr and sami.salih@windowslive.com 
+- 📫 How to reach me: http://www.samisalihibrahimbas.com.tr and sami.salih@windowslive.com 
 
 [<img src='./images/github.png' alt='github' style="color:" height='32'>](https://github.com/ssibrahimbas) &nbsp;&nbsp; [<img src='./images/linkedin.png' alt='linkedin' height='32'>](https://www.linkedin.com/in/ssibrahimbas/)&nbsp;&nbsp;  [<img src='./images/www.png' alt='website' height='32'>](https://ssi-blog-v2.herokuapp.com)  
 
