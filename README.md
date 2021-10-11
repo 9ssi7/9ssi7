@@ -97,15 +97,22 @@ I am trying to improve myself in Back-end and Front-end areas. I also have a blo
  [![Gmail](https://img.shields.io/badge/-sami.salih@windowslive.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sami.salih@windowslive.com)](sami.salih@windowslive.com)
 
 <h2 align='center'>
-<img align='left' alt='' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas&show_icons=true&theme=dracula' width='37%' height='300' >
-
- <img align='right' alt='' src='https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true&theme=dracula' width='55%' height='300' >
- </h2>
   
-<img src='https://activity-graph.herokuapp.com/graph?username=ssibrahimbas&theme=dracula'>  
+<img alt='' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas&show_icons=true&theme=dracula'>
+  </h2>
+  <h2 align='center'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=ssibrahimbas&show_icons=true&theme=dracula'>
+    </h2>
+  <h2 align='center'>
+ <img alt='' src='https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true&theme=dracula'>
+   </h2><h2 align='center'>
+  <img src='https://activity-graph.herokuapp.com/graph?username=ssibrahimbas&theme=dracula'  width='100%'>  
+  </h2>
+  
+
 
 <h1 align='center'>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=ssibrahimbas&show_icons=true&theme=dracula' >
+
 </h1>
 
 
