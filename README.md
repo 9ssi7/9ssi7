@@ -97,9 +97,9 @@ I am trying to improve myself in Back-end and Front-end areas. I also have a blo
  [![Gmail](https://img.shields.io/badge/-sami.salih@windowslive.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sami.salih@windowslive.com)](sami.salih@windowslive.com)
 
 <h2 align='center'>
-<img align='left' alt='' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas&show_icons=true&theme=dracula' width='300' height='300' >
+<img align='left' alt='' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas&show_icons=true&theme=dracula' width='30%' height='300' >
 
- <img align='right' alt='' src='https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true&theme=dracula' width='550' height='300' >
+ <img align='right' alt='' src='https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true&theme=dracula' width='60%' height='300' >
  </h2>
   
 <img src='https://activity-graph.herokuapp.com/graph?username=ssibrahimbas&theme=dracula'>  
