@@ -1,27 +1,113 @@
+<h1 align="center">
+  <img src="./name.svg" alt="Sami Salih İbrahimbaş" />
+</h1>
+
+<h4 align='center'>I can tell you about myself like this</h4>
+
+```typescript
+// IProfile.ts
+export interface IProfile {
+  fullName: string;
+  age: number;
+  skills: string[];
+  education : IEducation;
+}
+```
+
+```typescript
+// ISchool.ts
+export interface ISchool {
+  name : string;
+  city : number;
+  country: string;
+}
+```
+
+```typescript
+// IEducation.ts
+export interface IEducation {
+  school : ISchool;
+  program : string;
+  activeYear : number;
+}
+```
+
+```typescript
+//Profile.ts
+import {IProfile} from "./IProfile";
+import {ISchool} from "./ISchool";
+
+const SakaryaEdu : ISchool = {
+    name: 'Sakarya University',
+      city: "Sakarya",
+      country: "Turkey"
+};
+
+export default class Profile implements IProfile {
+   fullName : string = 'Sami Salih İbrahimbaş';
+  age : number = 19;
+  skills : string[] = [
+      "C#",
+      "TypeScript",
+      "JavaScript",
+      "Vue",
+      "Nodejs",
+      "React",
+      "MongoDB",
+      "MsSql",
+      "Scss",
+      "Css"
+  ];
+  education : IEducation = {
+    school: SakaryaEdu,
+    program: "Managament Information Systems",
+    activeYear: 2
+  };
+}
+```
+
+<h4 align='center'>Or<h4>
+
 ### Hi there 👋, my name is Sami
-#### I am a student and a developer 
-![I am a student and a developer ](./images/react.png)
+#### I am Full Stack Developer!
 
-I am 19 years old and I am a first year student in the Department of Management Information Systems at Izmir Democracy University.
+I am 19 years old. I am a second year student in the Department of Management Information Systems at Sakarya University.
 
-I am trying to improve myself in React, javascript and java areas. I also have a blog site on this site that I share while learning new things. However, this site is only in Turkish :( Still, if you do not speak Turkish, it's okay :) Because I leave explanations in English to my repos.
+I am trying to improve myself in Back-end and Front-end areas. I also have a blog site where I apply and share these while learning new things.
 
-Skills: REACT / JAVASCRIPT / NODE JS / JAVA / HTML / CSS
+## ⚡ Skills
 
-- 🔭 I’m currently working on Node JS. 
-- 🌱 I’m currently learning Front-end and Back-end 
-- 🤔 I’m looking for help with your evaluations  
-- 💬 Ask me about Javascript infos 
-- 📫 How to reach me: http://www.samisalihibrahimbas.com.tr and sami.salih@windowslive.com 
+![Vue](https://img.shields.io/badge/-Vue-black?logo=vue.js)
+![JavaScript](https://img.shields.io/badge/-Javascript-black?logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Node-black?logo=Node.js)
+![C#](https://img.shields.io/badge/-C%23-black?logo=csharp)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![CSS3](https://img.shields.io/badge/-CSS-black?logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
+![MsSql](https://img.shields.io/badge/-MsSql-black?logo=microsoft-sql-server)
+![Scss](https://img.shields.io/badge/-Scss-black?logo=sass)
 
-[<img src='./images/github.png' alt='github' style="color:" height='32'>](https://github.com/ssibrahimbas) &nbsp;&nbsp; [<img src='./images/linkedin.png' alt='linkedin' height='32'>](https://www.linkedin.com/in/ssibrahimbas/)&nbsp;&nbsp;  [<img src='./images/www.png' alt='website' height='32'>](https://ssi-blog-v2.herokuapp.com)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas)](https://github.com/ssibrahimbas)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ssibrahimbas)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true)  
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ssibrahimbas)
+ 
+[![SSI](./images/www.png) SSI Weblog](http://samisalihibrahimbas.com.tr/)
+ 
+ [![Gmail](https://img.shields.io/badge/-sami.salih@windowslive.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sami.salih@windowslive.com)](sami.salih@windowslive.com)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ssibrahimbas)  
+<h2 align='center'>
+<img align='left' alt='' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas&show_icons=true&theme=dracula' width='300' height='300' >
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ssibrahimbas)  
+ <img align='right' alt='' src='https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true&theme=dracula' width='550' height='300' >
+ </h2>
+  
+<img src='https://activity-graph.herokuapp.com/graph?username=ssibrahimbas&theme=dracula'>  
 
-![Profile views](https://gpvc.arturio.dev/ssibrahimbas)  
+<h1 align='center'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=ssibrahimbas&show_icons=true&theme=dracula' >
+</h1>
+
+
+
+<p style='display: flex;justify-content: center;'><img alt='' src='https://gpvc.arturio.dev/ssibrahimbas?theme=dracula'></p>
