@@ -92,7 +92,7 @@ I am trying to improve myself in Back-end and Front-end areas. I also have a blo
  
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ssibrahimbas)
  
-[![SSI](./images/www.png) SSI Weblog](http://samisalihibrahimbas.com.tr/)
+[![SSI](./www.png) SSI Weblog](http://samisalihibrahimbas.com.tr/)
  
  [![Gmail](https://img.shields.io/badge/-sami.salih@windowslive.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sami.salih@windowslive.com)](sami.salih@windowslive.com)
 
