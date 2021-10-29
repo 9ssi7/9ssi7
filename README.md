@@ -17,9 +17,9 @@ export interface IProfile {
 ```typescript
 // ISchool.ts
 export interface ISchool {
-  name : string;
-  city : number;
-  country: string;
+    name: string;
+    city: ICity;
+    country: string;
 }
 ```
 
@@ -33,36 +33,48 @@ export interface IEducation {
 ```
 
 ```typescript
+// ICity.ts
+export interface ICity {
+    name: string;
+    plateCode: number;
+}
+```
+
+```typescript
 //Profile.ts
 import {IProfile} from "./IProfile";
 import {ISchool} from "./ISchool";
 
-const SakaryaEdu : ISchool = {
+const SakaryaEDU : ISchool = {
     name: 'Sakarya University',
-      city: "Sakarya",
-      country: "Turkey"
+    city: {
+        name: "Sakarya",
+        plateCode: 54
+    },
+    country: "Turkey"
 };
 
-export default class Profile implements IProfile {
-   fullName : string = 'Sami Salih İbrahimbaş';
-  age : number = 19;
-  skills : string[] = [
-      "C#",
-      "TypeScript",
-      "JavaScript",
-      "Vue",
-      "Nodejs",
-      "React",
-      "MongoDB",
-      "MsSql",
-      "Scss",
-      "Css"
-  ];
-  education : IEducation = {
-    school: SakaryaEdu,
-    program: "Managament Information Systems",
-    activeYear: 2
-  };
+const myProfile: IProfile = {
+    fullName: 'Sami Salih İbrahimbaş',
+    age: 19,
+    skills: [
+        "Nodejs",
+        "TypeScript",
+        "JavaScript",
+        "MongoDB",
+        "React",
+        "Vue",
+        "MsSql",
+        "Scss",
+        "Css",
+        "C#",
+        "Angular"
+    ],
+    education: {
+        school: SakaryaEDU,
+        program: "Managament Information Systems",
+        activeYear: 2
+    }
 }
 ```
 
