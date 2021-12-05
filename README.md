@@ -56,7 +56,7 @@ const SakaryaEDU : ISchool = {
 
 const myProfile: IProfile = {
     fullName: 'Sami Salih İbrahimbaş',
-    age: 19,
+    age: 20,
     skills: [
         "Nodejs",
         "TypeScript",
@@ -83,7 +83,7 @@ const myProfile: IProfile = {
 ### Hi there 👋, my name is Sami
 #### I am Full Stack Developer!
 
-I am 19 years old. I am a second year student in the Department of Management Information Systems at Sakarya University.
+I am 20 years old. I am a second year student in the Department of Management Information Systems at Sakarya University.
 
 I am trying to improve myself in Back-end and Front-end areas. I also have a blog site where I apply and share these while learning new things.
 
