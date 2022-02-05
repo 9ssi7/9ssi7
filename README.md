@@ -64,7 +64,8 @@ const myProfile: IProfile = {
         "MongoDB",
         "React",
         "Vue",
-        "MsSql",
+        "Go",
+        "MySql",
         "Scss",
         "Css",
         "C#",
@@ -93,6 +94,7 @@ I am trying to improve myself in Back-end and Front-end areas. I also have a blo
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node-black?logo=Node.js)
 ![C#](https://img.shields.io/badge/-C%23-black?logo=csharp)
+![Go](https://img.shields.io/badge/--black?logo=go)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS-black?logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
