@@ -2,133 +2,61 @@
   <img src="./name.svg" alt="Sami Salih İbrahimbaş" />
 </h1>
 
-<h4 align='center'>I can tell you about myself like this</h4>
-
-```typescript
-// IProfile.ts
-export interface IProfile {
-  fullName: string;
-  age: number;
-  skills: string[];
-  education : IEducation;
-}
+<img alt='' align="left" src='https://github-readme-stackoverflow.vercel.app/?userID=17651928&theme=dark'>
+  
+  ```javascript
+const GithubProfile = require("github.com")
+    
+(async() => {
+  connection = await GithubProfile.connect({
+    username: 'ssibrahimbas'
+  })
+  connection.on("open", (connectionId) => {
+    connection.send({
+      connectionId,
+      channel: "greeting",
+      message: "Welcome to my profile!"
+    })
+  })
+})()
 ```
-
-```typescript
-// ISchool.ts
-export interface ISchool {
-    name: string;
-    city: ICity;
-    country: string;
-}
-```
-
-```typescript
-// IEducation.ts
-export interface IEducation {
-  school : ISchool;
-  program : string;
-  activeYear : number;
-}
-```
-
-```typescript
-// ICity.ts
-export interface ICity {
-    name: string;
-    plateCode: number;
-}
-```
-
-```typescript
-//Profile.ts
-import {IProfile} from "./IProfile";
-import {ISchool} from "./ISchool";
-
-const SakaryaEDU : ISchool = {
-    name: 'Sakarya University',
-    city: {
-        name: "Sakarya",
-        plateCode: 54
-    },
-    country: "Turkey"
-};
-
-const myProfile: IProfile = {
-    fullName: 'Sami Salih İbrahimbaş',
-    age: 20,
-    skills: [
-        "Nodejs",
-        "TypeScript",
-        "JavaScript",
-        "MongoDB",
-        "React",
-        "Vue",
-        "Go",
-        "MySql",
-        "Scss",
-        "Css",
-        "C#",
-        "Angular"
-    ],
-    education: {
-        school: SakaryaEDU,
-        program: "Managament Information Systems",
-        activeYear: 2
-    }
-}
-```
-
-<h4 align='center'>Or<h4>
-
-### Hi there 👋, my name is Sami
-#### I am Full Stack Developer!
-
-I am 20 years old. I am a second year student in the Department of Management Information Systems at Sakarya University.
-
-I am trying to improve myself in Back-end and Front-end areas. I also have a blog site where I apply and share these while learning new things.
-
 ## ⚡ Skills
 
-![Vue](https://img.shields.io/badge/-Vue-black?logo=vue.js)
-![JavaScript](https://img.shields.io/badge/-Javascript-black?logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Node-black?logo=Node.js)
-![C#](https://img.shields.io/badge/-C%23-black?logo=csharp)
-![Go](https://img.shields.io/badge/--black?logo=go)
-![React](https://img.shields.io/badge/-React-black?logo=react)
-![CSS3](https://img.shields.io/badge/-CSS-black?logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
-![MsSql](https://img.shields.io/badge/-MsSql-black?logo=microsoft-sql-server)
-![Scss](https://img.shields.io/badge/-Scss-black?logo=sass)
+Front-end:
+![Vue.js](https://img.shields.io/badge/-Vue.js-%23282C34?style=flat-square&logo=vuedotjs)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript)
+![Socket.io](https://img.shields.io/badge/-Socket.io-%23282C34?style=flat-square&logo=socket.io)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ssibrahimbas)
- 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ssibrahimbas)
- 
-[![SSI](./www.png) SSI Weblog](http://samisalihibrahimbas.com.tr/)
- 
- [![Gmail](https://img.shields.io/badge/-sami.salih@windowslive.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sami.salih@windowslive.com)](sami.salih@windowslive.com)
+Back-end:
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23282C34?style=flat-square&logo=Node.js)
+![Go](https://img.shields.io/badge/-go-%23282C34?style=flat-square&logo=go)
+![PhP](https://img.shields.io/badge/-PHP-%23282C34?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript)
+![Socket.io](https://img.shields.io/badge/-Socket.io-%23282C34?style=flat-square&logo=socket.io)
 
-<h2 align='center'>
-  
-<img alt='' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ssibrahimbas&show_icons=true&theme=dracula'>
-  </h2>
-  <h2 align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=ssibrahimbas&show_icons=true&theme=dracula'>
-    </h2>
-  <h2 align='center'>
- <img alt='' src='https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&count_private=true&theme=dracula'>
-   </h2><h2 align='center'>
-  <img src='https://activity-graph.herokuapp.com/graph?username=ssibrahimbas&theme=dracula'  width='100%'>  
-  </h2>
-  
+Devops:
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-%23282C34?style=flat-square&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/-Redis-%23282C34?style=flat-square&logo=redis)
+![Nginx](https://img.shields.io/badge/-Nginx-%23282C34?style=flat-square&logo=nginx)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23282C34?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-%23282C34?style=flat-square&logo=docker)
 
 
-<h1 align='center'>
+Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb)
+![Mysql](https://img.shields.io/badge/-Mysql-%23282C34?style=flat-square&logo=mysql&logoColor=%23FFF)
 
-</h1>
+Design:
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
+![Scss](https://img.shields.io/badge/-Scss-%23282C34?style=flat-square&logo=sass)
+![Adobe-xd](https://img.shields.io/badge/-AdobeXD-%23282C34?style=flat-square&logo=adobe-xd)
 
-
-
-<p style='display: flex;justify-content: center;'><img alt='' src='https://gpvc.arturio.dev/ssibrahimbas?theme=dracula'></p>
+Patterns:
+![JavaScript](https://img.shields.io/badge/-ObjectOrientedProgramming-%23282C34)
+![JavaScript](https://img.shields.io/badge/-DepdencenyInjection-%23282C34)
+![JavaScript](https://img.shields.io/badge/-Adapter-%23282C34)
+![JavaScript](https://img.shields.io/badge/-ChainOfResponsibility-%23282C34)
