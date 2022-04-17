@@ -61,5 +61,5 @@ Design:
 Patterns:
 ![JavaScript](https://img.shields.io/badge/-ObjectOrientedProgramming-%23282C34)
 ![JavaScript](https://img.shields.io/badge/-DepdencenyInjection-%23282C34)
-![JavaScript](https://img.shields.io/badge/-Adapter-%23282C34)
+![JavaScript](https://img.shields.io/badge/-AdapterAndFacade-%23282C34)
 ![JavaScript](https://img.shields.io/badge/-ChainOfResponsibility-%23282C34)
