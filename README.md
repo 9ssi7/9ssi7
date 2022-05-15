@@ -4,13 +4,13 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&locale=en&theme=material-palenight" alt="ssibrahimbas-stats" /></div>
 
-## Contact
+## 🔗 Contact
 
 - Medium: [ssibrahimbas](https://ssibrahimbas.medium.com)
 - LinkedIn: [ssibrahimbas](https://linkedin.com/in/ssibrahimbas)
 - Email: info@ssibrahimbas.com
 
-## ⚡ Skills
+## 🚀 Skills
 
 Back-end:
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%23282C34?style=flat-square&logo=Node.js)
