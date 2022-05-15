@@ -2,8 +2,6 @@
   <img src="./name.svg" alt="Sami Salih İbrahimbaş" />
 </div>
 
-<br/>
-
 ## Contact
 
 - Medium: [ssibrahimbas](https://ssibrahimbas.medium.com)
