@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align='center'>
   <img src="./name.svg" alt="Sami Salih İbrahimbaş" />
-</h1>
+</div>
 
 <br/>
 
