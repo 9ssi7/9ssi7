@@ -2,6 +2,8 @@
   <img src="./name.svg" alt="Sami Salih İbrahimbaş" />
 </div>
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&locale=en&theme=material-palenight" alt="ssibrahimbas-stats" /></p>
+
 ## Contact
 
 - Medium: [ssibrahimbas](https://ssibrahimbas.medium.com)
