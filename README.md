@@ -4,6 +4,9 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&locale=en&theme=material-palenight" alt="ssibrahimbas-stats" /></div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🔗 Contact
 
 - Medium: [ssibrahimbas](https://ssibrahimbas.medium.com)
