@@ -5,6 +5,16 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&locale=en&theme=material-palenight" alt="ssibrahimbas-stats" /></div>
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   26 hrs 39 mins  ██████████████▒░░░░░░░░░░   57.49 %
+Go           4 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+YAML         3 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+JSON         2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Markdown     2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+JavaScript   1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🔗 Contact
