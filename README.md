@@ -60,6 +60,8 @@ Database:
 Design:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
 ![Scss](https://img.shields.io/badge/-Scss-%23282C34?style=flat-square&logo=sass)
+![AntDesign](https://img.shields.io/badge/-antdesign-%23282C34?style=flat-square&logo=antdesign)
+![StyledComponents](https://img.shields.io/badge/styled--components-%23282C34?style=flat-square&logo=styled-components)
 
 Patterns:
 ![JavaScript](https://img.shields.io/badge/-ObjectOrientedProgramming-%23282C34)
