@@ -19,56 +19,74 @@ HTML              34 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 🔗 Contact
+<div align="center">
+  
+  <h3>Contact Me</h3>
+  
+  <div>
+    <a href="https://linkedin.com/in/ssibrahimbas" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+    </a>
+    <a href="https://ssibrahimbas.medium.com" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
+    <a href="mailto:info@ssibrahimbas.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </div> 
+  
+</div>
 
-- Medium: [ssibrahimbas](https://ssibrahimbas.medium.com)
-- LinkedIn: [ssibrahimbas](https://linkedin.com/in/ssibrahimbas)
-- Email: info@ssibrahimbas.com
+<h3 align="center">© I Developed</h3>
 
-## 🚀 Skills
+- 💫 [`Istanbul Framework`](https://github.com/ssibrahimbas/istanbul) use http, ssr front-end, ws, cli or microservice. It provides a completely ready infrastructure. 
+- ✍🏻 [`@ssibrahimbas/writer`](https://github.com/ssibrahimbas/writer) print with real keyboard feel
+- 🏗 [`@ssibrahimbas/query`](https://github.com/ssibrahimbas/query) Build sql queries fast, dynamically and parametrically
+- 🔙 [`@ssibrahimbas/capacitor-back-button`](https://github.com/ssibrahimbas/capacitor-backbutton) Use the back-button with queue in your Capacitor android apps! The page does not come back when the modal is closed!
 
-Back-end:
-![NodeJS](https://img.shields.io/badge/-NodeJS-%23282C34?style=flat-square&logo=Node.js)
-![Go](https://img.shields.io/badge/-go-%23282C34?style=flat-square&logo=go)
-![PhP](https://img.shields.io/badge/-PHP-%23282C34?style=flat-square&logo=php)
+And more from my company.
 
-Frameworks:
-![NestJS](https://img.shields.io/badge/-nestjs-%23282C34?style=flat-square&logo=nestjs)
-![Fastify](https://img.shields.io/badge/-fastify-%23282C34?style=flat-square&logo=fastify)
-![Express](https://img.shields.io/badge/-express.js-%23282C34?style=flat-square&logo=express)
-![Vue](https://img.shields.io/badge/-Vue.js-%23282C34?style=flat-square&logo=vuedotjs)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
+<br/>
 
-Tools:
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript)
-![Socket.io](https://img.shields.io/badge/-Socket.io-%23282C34?style=flat-square&logo=socket.io)
+<p align="center">
+<h1 align="center">🚀 Skills</h1>
+</p>
 
-Devops:
-![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-%23282C34?style=flat-square&logo=rabbitmq)
-![Redis](https://img.shields.io/badge/-Redis-%23282C34?style=flat-square&logo=redis)
-![Nginx](https://img.shields.io/badge/-Nginx-%23282C34?style=flat-square&logo=nginx)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23282C34?style=flat-square&logo=kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-%23282C34?style=flat-square&logo=docker)
+<h3 align="center">🌑 Backend</h3>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,go,php,nestjs,express">
+</p>
 
-Database:
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23282C34?style=flat-square&logo=mongodb)
-![Mysql](https://img.shields.io/badge/-Mysql-%23282C34?style=flat-square&logo=mysql&logoColor=%23FFF)
-![PostgreSql](https://img.shields.io/badge/-postgres-%23282C34?style=flat-square&logo=postgresql&logoColor=%23FFF)
+<h3 align="center">🌕 Frontend</h3>
 
-Design:
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
-![Scss](https://img.shields.io/badge/-Scss-%23282C34?style=flat-square&logo=sass)
-![AntDesign](https://img.shields.io/badge/-antdesign-%23282C34?style=flat-square&logo=antdesign)
-![StyledComponents](https://img.shields.io/badge/styled--components-%23282C34?style=flat-square&logo=styled-components)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vue,react,angular,js,jquery">
+</p>
 
-Patterns:
-![JavaScript](https://img.shields.io/badge/-ObjectOrientedProgramming-%23282C34)
-![JavaScript](https://img.shields.io/badge/-DepdencenyInjection-%23282C34)
-![JavaScript](https://img.shields.io/badge/-AdapterAndFacade-%23282C34)
-![JavaScript](https://img.shields.io/badge/-ChainOfResponsibility-%23282C34)
-![JavaScript](https://img.shields.io/badge/-Open/ClosedPrinciple-%23282C34)
-![JavaScript](https://img.shields.io/badge/-SingleResponsibilityPrinciple-%23282C34)
-![JavaScript](https://img.shields.io/badge/-LiskovSubstitutionPrinciple-%23282C34)
-![JavaScript](https://img.shields.io/badge/-InterfaceSegregationPrinciple-%23282C34)
+<h3 align="center">🔨 Tools
+
+<p align="center">
+<img src="./images/logo-dark.svg" width="48" height="48">&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript">
+</p>
+
+<h3 align="center">🎨 Design</h3>
+
+<p align="center">
+<img src="./images/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48">&nbsp;
+<img src="https://skillicons.dev/icons?i=js,sass,css,styledcomponents">
+</p>
+
+<h3 align="center">☁️ Devops</h3>
+
+<p align="center">
+<img src="./images/rabbitmq-icon-svgrepo-com.svg" width="48" height="48">&nbsp;
+<img src="https://skillicons.dev/icons?i=redis,nginx,kubernetes,docker">
+</p>
+
+<h3 align="center">䷛ Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql">
+</p>
