@@ -39,7 +39,7 @@ HTML              34 mins         ▒░░░░░░░░░░░░░░�
 
 <h3 align="center">© I Developed</h3>
 
-- 💫 [`Istanbul Framework`](https://github.com/ssibrahimbas/istanbul) use http, ssr front-end, ws, cli or microservice. It provides a completely ready infrastructure. 
+- 💫 [`Istanbul Framework`](https://github.com/istanbulnode) use http, ssr front-end, ws, cli or microservice. It provides a completely ready infrastructure. 
 - ✍🏻 [`@ssibrahimbas/writer`](https://github.com/ssibrahimbas/writer) print with real keyboard feel
 - 🏗 [`@ssibrahimbas/query`](https://github.com/ssibrahimbas/query) Build sql queries fast, dynamically and parametrically
 - 🔙 [`@ssibrahimbas/capacitor-back-button`](https://github.com/ssibrahimbas/capacitor-backbutton) Use the back-button with queue in your Capacitor android apps! The page does not come back when the modal is closed!
