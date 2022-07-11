@@ -46,6 +46,8 @@ PHP              42 mins         ▓░░░░░░░░░░░░░░�
 
 And more from my company.
 
+In my company we use gitlab for version control. If you want to view my in-house activity, click [here](https://gitlab.com/ssibrahimbas)
+
 <br/>
 
 <p align="center">
