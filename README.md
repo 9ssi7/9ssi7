@@ -6,18 +6,11 @@
 
 <br>
 
-<!--START_SECTION:waka-->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?theme=material-palenight&username=istanbulnode&repo=app">
+</div>
 
-```text
-Vue.js                     10 hrs 17 mins  ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-TypeScript                 8 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-Markdown                   5 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-JSON                       3 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-JavaScript                 3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-SCSS                       1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-```
 
-<!--END_SECTION:waka-->
 
 <div align="center">
   
@@ -56,7 +49,17 @@ SCSS                       1 hr 16 mins    █░░░░░░░░░░░�
 
 And more from my company.
 
-In my company we use gitlab for version control. If you want to view my in-house activity, click [here](https://gitlab.com/ssibrahimbas)
+<p align="center">
+
+ <a href="https://gitlab.com/ssibrahimbas" target="_blank">
+<img src="https://skillicons.dev/icons?i=gitlab">
+</a>
+
+<p align="center">
+In my company we use gitlab for version control. If you want to view my in-house activity, <a href="https://gitlab.com/ssibrahimbas" target="_blank">click here</a>
+</p>
+
+</p>
 
 <br/>
 
