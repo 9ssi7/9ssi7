@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 I’m developed [IstanbulJS](https://istanbuljs.org)
 
-- 📝 I regularly write articles on [ssibrahimbas.medium.com](ssibrahimbas.medium.com)
+- 📝 I regularly write articles on [ssibrahimbas.medium.com](https://ssibrahimbas.medium.com)
 
 - 💬 Ask me about **go, micro services, nodejs, backend dev. and more**
 
