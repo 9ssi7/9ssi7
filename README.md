@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Alfatek](https://alfatekyazilim.com.tr)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently mastering **Kubernetes**, **microservices** and **golang**
 
 - 🧑🏻‍💻 I’m developed [IstanbulJS](https://istanbuljs.org)
 
