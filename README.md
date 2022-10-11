@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [ssibrahimbas.medium.com](https://ssibrahimbas.medium.com)
 
-- 💬 Ask me about **go, micro services, nodejs, backend dev. and more**
+- 💬 Ask me about **go, microservices, nodejs, backend development and more**
 
 - 📫 How to reach me **info@ssibrahimbas.com**
 
