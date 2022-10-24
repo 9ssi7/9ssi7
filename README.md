@@ -27,8 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left"> 
-<!-- languages --->
+<p align="left"> 
  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
@@ -46,7 +45,7 @@
 <a href="https://docs.nats.io/nats-concepts/jetstream" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/natsio/natsio-icon.svg" alt="jetstream" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="apache-spark" width="40" height="40"/> </a> 
-</div>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&locale=en&theme=dark" alt="ssibrahimbas" /></p>
 
