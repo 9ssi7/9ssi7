@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently mastering **Kubernetes**, **microservices** and **golang**
 
-- 🧑🏻‍💻 I’m developed [IstanbulJS](https://istanbuljs.org)
+- 🧑🏻‍💻 I’m developed [GalataJS](https://istanbuljs.org)
 
 - 📝 I regularly write articles on [ssibrahimbas.medium.com](https://ssibrahimbas.medium.com)
 
