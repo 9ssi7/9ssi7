@@ -13,7 +13,6 @@
 <a href="https://instagram.com/ss.ibrahimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ss.ibrahimbas" height="30" width="40" /></a>
 <a href="https://medium.com/@ssibrahimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ssibrahimbas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCLqOX31k4bQ1SlbXdDXS5qg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclqox31k4bq1slbxddxs5qg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLqOX31k4bQ1SlbXdDXS5qg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclqox31k4bq1slbxddxs5qg" height="30" width="40" /></a>
 
 <a href="https://github.com/ssibrahimbas/ssibrahimbas/blob/main/ResumeOfSamiSalihIbrahimbas.pdf" target="_blank">View Resume</a>
 </div>
