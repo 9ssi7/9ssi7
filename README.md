@@ -6,6 +6,8 @@
 
 <div align="center">
 
+  
+<a href="https://gitlab.com/ssibrahimbas" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-500.svg" alt="ssibrahimbas" height="auto" width="50" /></a>
 <a href="https://dev.to/ssibrahimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ssibrahimbas" height="30" width="40" /></a>
 <a href="https://twitter.com/ss_ibrahimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ss_ibrahimbas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ssibrahimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssibrahimbas" height="30" width="40" /></a>
