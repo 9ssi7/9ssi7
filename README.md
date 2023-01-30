@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="./Black and Blue Modern Gamers Facebook Cover.svg" alt="Sami Salih İbrahimbaş" />
+  <img src="./ssibrahimbas_cover.svg" alt="Sami Salih İbrahimbaş" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
