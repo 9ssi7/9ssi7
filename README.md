@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="./ssibrahimbas_cover.svg" alt="Sami Salih İbrahimbaş" />
+  <img src="./ssibrahimbas.png" alt="Sami Salih İbrahimbaş" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
