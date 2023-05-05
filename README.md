@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Entrepreneur and Software Development Team Leader
+I'm a Entrepreneur and Software Developer
 
 # so that it doesn't look empty
 
