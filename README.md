@@ -5,9 +5,7 @@
 ## 🚀 About Me
 I'm a Entrepreneur and Software Developer
 
-# so that it doesn't look empty
-
-👩‍💻 I'm currently working on https://turistikrota.com and my contract jobs
+🔎 I'm currently looking for new job 
 
 💬 Ask me about Golang, Microservices, Cloud, Docker, DevOps, NextJS, UX or other career topics
 
