@@ -5,8 +5,6 @@
 ## 🚀 About Me
 I'm a Entrepreneur and Software Developer
 
-🔎 I'm currently looking for new job 
-
 💬 Ask me about Golang, Microservices, Cloud, Docker, DevOps, NextJS, UX or other career topics
 
 📫 How to reach me info@ssibrahimbas.com
