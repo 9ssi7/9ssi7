@@ -25,12 +25,12 @@ I'm a Entrepreneur and Software Developer
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&theme=dark&hide_border=true&border_radius=10&mode=weekly"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&theme=dark&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10&mode=weekly"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10&mode=weekly" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10" />
 </picture>
