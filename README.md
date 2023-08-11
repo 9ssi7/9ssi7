@@ -10,3 +10,27 @@ I'm a Entrepreneur and Software Developer
 🏠 I work from home
 
 📫 How to reach me info@ssibrahimbas.com
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&theme=dark&hide_border=true&border_radius=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&hide_border=true&border_radius=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&hide_border=true&border_radius=10" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&theme=dark&hide_border=true&border_radius=10&mode=weekly"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10&mode=weekly"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10&mode=weekly" />
+</picture>
