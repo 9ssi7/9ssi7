@@ -3,15 +3,15 @@
 
 I'm a Entrepreneur and Software Developer
 
-💬 Ask me about Golang, Microservices, DevOps, Docker, Frontend, Cloud or other career topics
+💬 Ask me about Golang, JavaScript, Microservices, Microfrontends, DevOps, Docker and Cloud
 
 📌 I'm living in Turkey
 
 🏠 I work from home
 
-📫 How to reach me? 
-for personal: info@ssibrahimbas.com 
-for business: info@turistikrota.com
+📫 How to reach me? <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for personal: info@ssibrahimbas.com <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for business: info@turistikrota.com
 
 <picture>
   <source
