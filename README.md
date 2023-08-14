@@ -1,5 +1,5 @@
 
-# Hi, I'm Sami! 👋
+# Hi, I'm Sami!
 
 I'm a Entrepreneur and Software Developer
 
@@ -9,7 +9,9 @@ I'm a Entrepreneur and Software Developer
 
 🏠 I work from home
 
-📫 How to reach me info@ssibrahimbas.com
+📫 How to reach me? 
+for personal: info@ssibrahimbas.com 
+for business: info@turistikrota.com
 
 <picture>
   <source
