@@ -1,5 +1,5 @@
 
-# Hi, I'm Sami!
+# Hi, I'm Salih!
 
 I'm a Entrepreneur and Software Developer
 
@@ -15,24 +15,24 @@ I'm a Entrepreneur and Software Developer
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&theme=dark&hide_border=true&border_radius=10"
+    srcset="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&theme=dark&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&hide_border=true&border_radius=10"
+    srcset="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ssibrahimbas&show_icons=true&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&hide_border=true&border_radius=10" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&theme=dark&hide_border=true&border_radius=10"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=9ssi7&theme=dark&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=9ssi7&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ssibrahimbas&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=9ssi7&hide_border=true&border_radius=10" />
 </picture>
