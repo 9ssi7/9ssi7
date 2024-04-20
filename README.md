@@ -1,6 +1,4 @@
-# I'm available on Upwork! [View Upwork Profile](https://www.upwork.com/freelancers/~010f572f9cf051279c?s=1110580755107926016)
-
-## Hi, I'm Salih!
+# Hi, I'm Salih!
 
 I'm a Software Developer. I call myself a lifetime junior.
 
