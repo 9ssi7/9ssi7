@@ -1,6 +1,6 @@
 # Hi, I'm Salih!
 
-I'm a Software Developer. I call myself a lifetime junior.
+I'm a Software and Product Developer. I call myself a lifetime junior.
 
 💬 Ask me about Everything about Golang, Everything about JavaSript, Everything about Docker and Cloudflare Services
 
