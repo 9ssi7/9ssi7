@@ -6,8 +6,6 @@ I'm a Software and Product Developer. I call myself a lifetime junior.
 
 ⚒️ I don't discriminate between language or tool, I use whichever works best for the project.
 
-🏍️ I love riding motorcycles. I don't listen to music while riding, I like to think.
-
 🏠 I work from home, beach, hotel, cafe, forest or wherever
 
 <picture>
