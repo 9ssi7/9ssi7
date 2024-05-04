@@ -2,7 +2,7 @@
 
 I'm a Software and Product Developer. I call myself a lifetime junior.
 
-💬 Ask me about Everything about Golang, Everything about JavaSript, Everything about Docker and Cloudflare Services
+💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services
 
 ⚒️ I don't discriminate between language or tool, I use whichever works best for the project.
 
