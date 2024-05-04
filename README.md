@@ -1,14 +1,70 @@
-# Hi, I'm Salih!
+<details open>
+  <summary>
+    <h3>&nbsp;Show as Developer</h3>
+  </summary>
 
-I'm a Software and Product Developer. I call myself a lifetime junior.
+```yaml
+version: 3
+identity:
+  nickname: 9ssi7
+  fullname: Sami Salih İbrahimbaş
+languages:
+  - Turkish
+  - English
+interests:
+  - Golang
+  - Docker
+  - JavaScript
+  - Cloudflare Services
+  - Kubernetes
+  - Linux
+  - Open Source
+  - DevOps
+career:
+  current: 
+    company: MonoPayments
+    position: Software Developer
+    start: 2023 July
+  previous:
+    - company: AlfaTek
+      position: Software Developer
+      start: 2021 July
+      end: 2023 July
+location:
+  cities: 
+    - Kocaeli
+    - Istanbul
+  country: Turkey
+social:
+  github: 9ssi7
+  linkedin: 9ssi7
+  twitter: 9ssi7
+  website: https://9ssi7.dev
+```
+</details>
 
-💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services
+<details>
+  <summary>
+    <h3>&nbsp;Show Other Way</h3>
+  </summary>
 
-⚒️ I don't discriminate between language or tool, I use whichever works best for the project.
+  # Hi, I'm Salih!  
 
-🏠 I work from home, beach, hotel, cafe, forest or wherever
+  I'm a Software and Product Developer. I call myself a lifetime junior.
+  
+  💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services
+  
+  ⚒️ I don't discriminate between language or tool, I use whichever works best for the project.
+  
+  🏠 I work from home, beach, hotel, cafe, forest or wherever
+</details>
 
-<picture>
+<details open>
+  <summary>
+    <h3>&nbsp;Show Stats</h3>
+  </summary>
+
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&theme=dark&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: dark)"
@@ -31,3 +87,4 @@ I'm a Software and Product Developer. I call myself a lifetime junior.
   />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=9ssi7&hide_border=true&border_radius=10" />
 </picture>
+</details>
