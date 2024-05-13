@@ -4,10 +4,6 @@ I'm a Software and Product Developer. I call myself a lifetime junior.
 
 💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services
 
-⚒️ I don't discriminate between language or tool, I use whichever works best for the project.
-
-🏠 I work from home, beach, hotel, cafe, forest or wherever
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&theme=dark&hide_border=true&border_radius=10"
