@@ -1,8 +1,8 @@
 # Hi, I'm Salih!  
 
-I'm a Software and Product Developer. I call myself a lifetime junior.
+I'm a Product Developer. I call myself a lifetime junior.
 
-💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services
+💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services.
 
 <picture>
   <source
