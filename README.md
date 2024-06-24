@@ -4,7 +4,7 @@ I'm a Product Developer. I call myself a lifetime junior.
 
 💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services.
 
-[![committers.top badge](https://user-badge.committers.top/turkey/9ssi7.svg)](https://user-badge.committers.top/turkey/9ssi7)
+[![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
 
 <picture>
   <source
