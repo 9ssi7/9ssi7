@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/9ssi7/gopre/pull/3) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-2. ❗ Opened issue [#2](https://github.com/9ssi7/gopre/issues/2) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-3. ❗ Opened issue [#1](https://github.com/9ssi7/gopre/issues/1) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-4. 🗣 Commented on [#17](https://github.com/BrianLeishman/go-imap/issues/17#issuecomment-2203749469) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-5. 💪 Opened PR [#18](https://github.com/BrianLeishman/go-imap/pull/18) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-6. 🗣 Commented on [#17](https://github.com/BrianLeishman/go-imap/issues/17#issuecomment-2203217680) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-7. 🎉 Merged PR [#8](https://github.com/9ssi7/9ssi7.dev/pull/8) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
-8. 💪 Opened PR [#8](https://github.com/9ssi7/9ssi7.dev/pull/8) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
-9. 🎉 Merged PR [#7](https://github.com/9ssi7/9ssi7.dev/pull/7) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
-10. 💪 Opened PR [#7](https://github.com/9ssi7/9ssi7.dev/pull/7) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
+1. ❗ Opened issue [#4](https://github.com/9ssi7/gopre/issues/4) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+2. 💪 Opened PR [#3](https://github.com/9ssi7/gopre/pull/3) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+3. ❗ Opened issue [#2](https://github.com/9ssi7/gopre/issues/2) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+4. ❗ Opened issue [#1](https://github.com/9ssi7/gopre/issues/1) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+5. 🗣 Commented on [#17](https://github.com/BrianLeishman/go-imap/issues/17#issuecomment-2203749469) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+6. 💪 Opened PR [#18](https://github.com/BrianLeishman/go-imap/pull/18) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+7. 🗣 Commented on [#17](https://github.com/BrianLeishman/go-imap/issues/17#issuecomment-2203217680) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+8. 🎉 Merged PR [#8](https://github.com/9ssi7/9ssi7.dev/pull/8) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
+9. 💪 Opened PR [#8](https://github.com/9ssi7/9ssi7.dev/pull/8) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
+10. 🎉 Merged PR [#7](https://github.com/9ssi7/9ssi7.dev/pull/7) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
