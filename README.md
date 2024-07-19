@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#811](https://github.com/tealeg/xlsx/issues/811) in [tealeg/xlsx](https://github.com/tealeg/xlsx)
-2. 🚀 Published release [v0.1.0](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker/releases/tag/v0.1.0) in [9ssi7/zed-one-dark-pro-monokai-darker](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker)
-3. 🗣 Commented on [#1026](https://github.com/zed-industries/extensions/pull/1026#issuecomment-2223678977) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-4. 💪 Opened PR [#1026](https://github.com/zed-industries/extensions/pull/1026) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
-5. ❗ Opened issue [#5111](https://github.com/socketio/socket.io/issues/5111) in [socketio/socket.io](https://github.com/socketio/socket.io)
-6. 🎉 Merged PR [#6](https://github.com/9ssi7/gopre/pull/6) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-7. 💪 Opened PR [#6](https://github.com/9ssi7/gopre/pull/6) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-8. 🔒 Closed issue [#4](https://github.com/9ssi7/gopre/issues/4) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-9. 🎉 Merged PR [#5](https://github.com/9ssi7/gopre/pull/5) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-10. 💪 Opened PR [#5](https://github.com/9ssi7/gopre/pull/5) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+1. ❌ Closed PR [#3](https://github.com/9ssi7/gopre/pull/3) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+2. 💪 Opened PR [#8](https://github.com/9ssi7/gopre/pull/8) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+3. ❗ Opened issue [#811](https://github.com/tealeg/xlsx/issues/811) in [tealeg/xlsx](https://github.com/tealeg/xlsx)
+4. 🚀 Published release [v0.1.0](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker/releases/tag/v0.1.0) in [9ssi7/zed-one-dark-pro-monokai-darker](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker)
+5. 🗣 Commented on [#1026](https://github.com/zed-industries/extensions/pull/1026#issuecomment-2223678977) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+6. 💪 Opened PR [#1026](https://github.com/zed-industries/extensions/pull/1026) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+7. ❗ Opened issue [#5111](https://github.com/socketio/socket.io/issues/5111) in [socketio/socket.io](https://github.com/socketio/socket.io)
+8. 🎉 Merged PR [#6](https://github.com/9ssi7/gopre/pull/6) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+9. 💪 Opened PR [#6](https://github.com/9ssi7/gopre/pull/6) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+10. 🔒 Closed issue [#4](https://github.com/9ssi7/gopre/issues/4) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
