@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1292](https://github.com/go-playground/validator/pull/1292#issuecomment-2240494157) in [go-playground/validator](https://github.com/go-playground/validator)
-2. 🗣 Commented on [#557](https://github.com/gabriel-vasile/mimetype/issues/557#issuecomment-2239213203) in [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype)
-3. ❗ Opened issue [#557](https://github.com/gabriel-vasile/mimetype/issues/557) in [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype)
-4. 🗣 Commented on [#1292](https://github.com/go-playground/validator/pull/1292#issuecomment-2239203007) in [go-playground/validator](https://github.com/go-playground/validator)
-5. 💪 Opened PR [#1292](https://github.com/go-playground/validator/pull/1292) in [go-playground/validator](https://github.com/go-playground/validator)
-6. ❗ Opened issue [#1291](https://github.com/go-playground/validator/issues/1291) in [go-playground/validator](https://github.com/go-playground/validator)
-7. ❌ Closed PR [#3](https://github.com/9ssi7/gopre/pull/3) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-8. 💪 Opened PR [#8](https://github.com/9ssi7/gopre/pull/8) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-9. ❗ Opened issue [#811](https://github.com/tealeg/xlsx/issues/811) in [tealeg/xlsx](https://github.com/tealeg/xlsx)
-10. 🚀 Published release [v0.1.0](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker/releases/tag/v0.1.0) in [9ssi7/zed-one-dark-pro-monokai-darker](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker)
+1. 🚀 Published release [txnmongo/v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/txnmongo/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
+2. 🚀 Published release [txnredis/v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/txnredis/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
+3. 🚀 Published release [txngorm/v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/txngorm/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
+4. 🚀 Published release [v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
+5. 🚀 Published release [v0.0.1-beta.7](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.7) in [9ssi7/txn](https://github.com/9ssi7/txn)
+6. 🚀 Published release [v0.0.1-beta.6](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.6) in [9ssi7/txn](https://github.com/9ssi7/txn)
+7. 🚀 Published release [v0.0.1-beta.5](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.5) in [9ssi7/txn](https://github.com/9ssi7/txn)
+8. 🚀 Published release [v0.0.1-beta.4](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.4) in [9ssi7/txn](https://github.com/9ssi7/txn)
+9. 🚀 Published release [v0.0.1-beta.3](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.3) in [9ssi7/txn](https://github.com/9ssi7/txn)
+10. 🚀 Published release [v0.0.1-beta.2](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.2) in [9ssi7/txn](https://github.com/9ssi7/txn)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
