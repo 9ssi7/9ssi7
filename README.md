@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [txnmongo/v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/txnmongo/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
-2. 🚀 Published release [txnredis/v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/txnredis/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
-3. 🚀 Published release [txngorm/v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/txngorm/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
-4. 🚀 Published release [v0.0.1-beta.8](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.8) in [9ssi7/txn](https://github.com/9ssi7/txn)
-5. 🚀 Published release [v0.0.1-beta.7](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.7) in [9ssi7/txn](https://github.com/9ssi7/txn)
-6. 🚀 Published release [v0.0.1-beta.6](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.6) in [9ssi7/txn](https://github.com/9ssi7/txn)
-7. 🚀 Published release [v0.0.1-beta.5](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.5) in [9ssi7/txn](https://github.com/9ssi7/txn)
-8. 🚀 Published release [v0.0.1-beta.4](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.4) in [9ssi7/txn](https://github.com/9ssi7/txn)
-9. 🚀 Published release [v0.0.1-beta.3](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.3) in [9ssi7/txn](https://github.com/9ssi7/txn)
-10. 🚀 Published release [v0.0.1-beta.2](https://github.com/9ssi7/txn/releases/tag/v0.0.1-beta.2) in [9ssi7/txn](https://github.com/9ssi7/txn)
+1. 🎉 Merged PR [#8](https://github.com/9ssi7/gopre/pull/8) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+2. 🗣 Commented on [#2](https://github.com/9ssi7/gopre/issues/2#issuecomment-2241290476) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+3. 🔒 Closed issue [#2](https://github.com/9ssi7/gopre/issues/2) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+4. 🗣 Commented on [#1](https://github.com/9ssi7/gopre/issues/1#issuecomment-2241290460) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+5. 🔒 Closed issue [#1](https://github.com/9ssi7/gopre/issues/1) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+6. 🚀 Published release [v1.0.0](https://github.com/9ssi7/txn/releases/tag/v1.0.0) in [9ssi7/txn](https://github.com/9ssi7/txn)
+7. 🚀 Published release [txmongo/v1.0.0](https://github.com/9ssi7/txn/releases/tag/txmongo/v1.0.0) in [9ssi7/txn](https://github.com/9ssi7/txn)
+8. 🚀 Published release [txngorm/v1.0.0](https://github.com/9ssi7/txn/releases/tag/txngorm/v1.0.0) in [9ssi7/txn](https://github.com/9ssi7/txn)
+9. 💪 Opened PR [#1103](https://github.com/zed-industries/extensions/pull/1103) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
+10. 🚀 Published release [v0.1.1](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker/releases/tag/v0.1.1) in [9ssi7/zed-one-dark-pro-monokai-darker](https://github.com/9ssi7/zed-one-dark-pro-monokai-darker)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
