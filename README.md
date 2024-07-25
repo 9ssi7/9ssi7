@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/9ssi7/gopre/issues/13) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-2. ❗ Opened issue [#12](https://github.com/9ssi7/gopre/issues/12) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-3. ❗ Opened issue [#11](https://github.com/9ssi7/gopre/issues/11) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-4. 🔒 Closed issue [#24](https://github.com/9ssi7/teknasyon.banking/issues/24) in [9ssi7/teknasyon.banking](https://github.com/9ssi7/teknasyon.banking)
-5. 🎉 Merged PR [#25](https://github.com/9ssi7/teknasyon.banking/pull/25) in [9ssi7/teknasyon.banking](https://github.com/9ssi7/teknasyon.banking)
-6. 💪 Opened PR [#25](https://github.com/9ssi7/teknasyon.banking/pull/25) in [9ssi7/teknasyon.banking](https://github.com/9ssi7/teknasyon.banking)
-7. 🚀 Published release [v1.0.2](https://github.com/9ssi7/txn/releases/tag/v1.0.2) in [9ssi7/txn](https://github.com/9ssi7/txn)
-8. 🚀 Published release [v1.0.1](https://github.com/9ssi7/txn/releases/tag/v1.0.1) in [9ssi7/txn](https://github.com/9ssi7/txn)
-9. 🚀 Published release [txnmongo/v1.0.1](https://github.com/9ssi7/txn/releases/tag/txnmongo/v1.0.1) in [9ssi7/txn](https://github.com/9ssi7/txn)
-10. 🚀 Published release [txngorm/v1.0.1](https://github.com/9ssi7/txn/releases/tag/txngorm/v1.0.1) in [9ssi7/txn](https://github.com/9ssi7/txn)
+1. 🎉 Merged PR [#9](https://github.com/9ssi7/9ssi7.dev/pull/9) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
+2. 💪 Opened PR [#9](https://github.com/9ssi7/9ssi7.dev/pull/9) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
+3. ❗ Opened issue [#13](https://github.com/9ssi7/gopre/issues/13) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+4. ❗ Opened issue [#12](https://github.com/9ssi7/gopre/issues/12) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+5. ❗ Opened issue [#11](https://github.com/9ssi7/gopre/issues/11) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
+6. 🔒 Closed issue [#24](https://github.com/9ssi7/teknasyon.banking/issues/24) in [9ssi7/teknasyon.banking](https://github.com/9ssi7/teknasyon.banking)
+7. 🎉 Merged PR [#25](https://github.com/9ssi7/teknasyon.banking/pull/25) in [9ssi7/teknasyon.banking](https://github.com/9ssi7/teknasyon.banking)
+8. 💪 Opened PR [#25](https://github.com/9ssi7/teknasyon.banking/pull/25) in [9ssi7/teknasyon.banking](https://github.com/9ssi7/teknasyon.banking)
+9. 🚀 Published release [v1.0.2](https://github.com/9ssi7/txn/releases/tag/v1.0.2) in [9ssi7/txn](https://github.com/9ssi7/txn)
+10. 🚀 Published release [v1.0.1](https://github.com/9ssi7/txn/releases/tag/v1.0.1) in [9ssi7/txn](https://github.com/9ssi7/txn)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
