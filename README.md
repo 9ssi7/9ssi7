@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/9ssi7/gopre/issues/11#issuecomment-2253390299) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-2. 🔒 Closed issue [#11](https://github.com/9ssi7/gopre/issues/11) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-3. 🎉 Merged PR [#10](https://github.com/9ssi7/9ssi7.dev/pull/10) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
-4. 💪 Opened PR [#10](https://github.com/9ssi7/9ssi7.dev/pull/10) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
-5. 🎉 Merged PR [#9](https://github.com/9ssi7/9ssi7.dev/pull/9) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
-6. 💪 Opened PR [#9](https://github.com/9ssi7/9ssi7.dev/pull/9) in [9ssi7/9ssi7.dev](https://github.com/9ssi7/9ssi7.dev)
-7. ❗ Opened issue [#13](https://github.com/9ssi7/gopre/issues/13) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-8. ❗ Opened issue [#12](https://github.com/9ssi7/gopre/issues/12) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-9. ❗ Opened issue [#11](https://github.com/9ssi7/gopre/issues/11) in [9ssi7/gopre](https://github.com/9ssi7/gopre)
-10. 🔒 Closed issue [#24](https://github.com/9ssi7/teknasyon.banking/issues/24) in [9ssi7/teknasyon.banking](https://github.com/9ssi7/teknasyon.banking)
+1. ❗ Opened issue [#25](https://github.com/turistikrota/monorepo/issues/25) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+2. ❗ Opened issue [#24](https://github.com/turistikrota/monorepo/issues/24) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+3. ❗ Opened issue [#23](https://github.com/turistikrota/monorepo/issues/23) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+4. ❗ Opened issue [#22](https://github.com/turistikrota/monorepo/issues/22) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+5. ❗ Opened issue [#21](https://github.com/turistikrota/monorepo/issues/21) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+6. ❗ Opened issue [#20](https://github.com/turistikrota/monorepo/issues/20) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+7. ❗ Opened issue [#19](https://github.com/turistikrota/monorepo/issues/19) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+8. ❗ Opened issue [#18](https://github.com/turistikrota/monorepo/issues/18) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+9. ❗ Opened issue [#17](https://github.com/turistikrota/monorepo/issues/17) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+10. ❗ Opened issue [#16](https://github.com/turistikrota/monorepo/issues/16) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
