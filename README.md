@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258693390) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-2. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258678332) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-3. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258675762) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-4. ❗ Opened issue [#20](https://github.com/BrianLeishman/go-imap/issues/20) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-5. ❗ Opened issue [#25](https://github.com/turistikrota/monorepo/issues/25) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
-6. ❗ Opened issue [#24](https://github.com/turistikrota/monorepo/issues/24) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
-7. ❗ Opened issue [#23](https://github.com/turistikrota/monorepo/issues/23) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
-8. ❗ Opened issue [#22](https://github.com/turistikrota/monorepo/issues/22) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
-9. ❗ Opened issue [#21](https://github.com/turistikrota/monorepo/issues/21) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
-10. ❗ Opened issue [#20](https://github.com/turistikrota/monorepo/issues/20) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+1. 💪 Opened PR [#21](https://github.com/BrianLeishman/go-imap/pull/21) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+2. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258693390) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+3. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258678332) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+4. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258675762) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+5. ❗ Opened issue [#20](https://github.com/BrianLeishman/go-imap/issues/20) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
+6. ❗ Opened issue [#25](https://github.com/turistikrota/monorepo/issues/25) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+7. ❗ Opened issue [#24](https://github.com/turistikrota/monorepo/issues/24) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+8. ❗ Opened issue [#23](https://github.com/turistikrota/monorepo/issues/23) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+9. ❗ Opened issue [#22](https://github.com/turistikrota/monorepo/issues/22) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+10. ❗ Opened issue [#21](https://github.com/turistikrota/monorepo/issues/21) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
