@@ -8,7 +8,7 @@ I am a software and product developer with a passion for building innovative sol
 
 <!-- ARTICLES:START -->
 - [Distributed Transaction Management in Go](https://9ssi7.medium.com/distributed-transaction-management-in-go-2fa9ef7b0350?source=rss-ced864c5b828------2)
-- [Sharing Go Modules as Nested](https://9ssi7.medium.com/sharing-go-modules-as-nested-ad64e608b681?source=rss-ced864c5b828------2)
+- [Sharing Go Modules as Nested](https://medium.com/goturkiye/sharing-go-modules-as-nested-ad64e608b681?source=rss-ced864c5b828------2)
 - [JavaScript’s Number Crunching Conundrum](https://9ssi7.medium.com/javascripts-number-crunching-conundrum-c8ad0c546738?source=rss-ced864c5b828------2)
 - [Mastering I18n in Golang with PostgreSQL’s JSONB](https://9ssi7.medium.com/mastering-i18n-in-golang-with-postgresqls-jsonb-2631ad50376a?source=rss-ced864c5b828------2)
 - [Building a Music Recommendation App with Golang, Neo4j and GraphQL](https://9ssi7.medium.com/building-a-music-recommendation-app-with-golang-neo4j-and-graphql-697f842ea688?source=rss-ced864c5b828------2)
