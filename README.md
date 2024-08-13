@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [txnsql/v1.0.1](https://github.com/9ssi7/txn/releases/tag/txnsql/v1.0.1) in [9ssi7/txn](https://github.com/9ssi7/txn)
-2. 🎉 Merged PR [#1](https://github.com/9ssi7/txn/pull/1) in [9ssi7/txn](https://github.com/9ssi7/txn)
-3. 💪 Opened PR [#1](https://github.com/9ssi7/txn/pull/1) in [9ssi7/txn](https://github.com/9ssi7/txn)
-4. 💪 Opened PR [#21](https://github.com/BrianLeishman/go-imap/pull/21) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-5. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258693390) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-6. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258678332) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-7. 🗣 Commented on [#20](https://github.com/BrianLeishman/go-imap/issues/20#issuecomment-2258675762) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-8. ❗ Opened issue [#20](https://github.com/BrianLeishman/go-imap/issues/20) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
-9. ❗ Opened issue [#25](https://github.com/turistikrota/monorepo/issues/25) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
-10. ❗ Opened issue [#24](https://github.com/turistikrota/monorepo/issues/24) in [turistikrota/monorepo](https://github.com/turistikrota/monorepo)
+1. 🚀 Published release [txnsql/v1.0.3](https://github.com/9ssi7/txn/releases/tag/txnsql/v1.0.3) in [9ssi7/txn](https://github.com/9ssi7/txn)
+2. 🎉 Merged PR [#3](https://github.com/9ssi7/txn/pull/3) in [9ssi7/txn](https://github.com/9ssi7/txn)
+3. 💪 Opened PR [#3](https://github.com/9ssi7/txn/pull/3) in [9ssi7/txn](https://github.com/9ssi7/txn)
+4. 🚀 Published release [txnsql/v1.0.2](https://github.com/9ssi7/txn/releases/tag/txnsql/v1.0.2) in [9ssi7/txn](https://github.com/9ssi7/txn)
+5. 🎉 Merged PR [#2](https://github.com/9ssi7/txn/pull/2) in [9ssi7/txn](https://github.com/9ssi7/txn)
+6. 💪 Opened PR [#2](https://github.com/9ssi7/txn/pull/2) in [9ssi7/txn](https://github.com/9ssi7/txn)
+7. 🚀 Published release [txnsql/v1.0.1](https://github.com/9ssi7/txn/releases/tag/txnsql/v1.0.1) in [9ssi7/txn](https://github.com/9ssi7/txn)
+8. 🎉 Merged PR [#1](https://github.com/9ssi7/txn/pull/1) in [9ssi7/txn](https://github.com/9ssi7/txn)
+9. 💪 Opened PR [#1](https://github.com/9ssi7/txn/pull/1) in [9ssi7/txn](https://github.com/9ssi7/txn)
+10. 💪 Opened PR [#21](https://github.com/BrianLeishman/go-imap/pull/21) in [BrianLeishman/go-imap](https://github.com/BrianLeishman/go-imap)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
