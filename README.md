@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/9ssi7/bank/issues/7) in [9ssi7/bank](https://github.com/9ssi7/bank)
-2. ❗ Opened issue [#6](https://github.com/9ssi7/bank/issues/6) in [9ssi7/bank](https://github.com/9ssi7/bank)
-3. ❗ Opened issue [#5](https://github.com/9ssi7/bank/issues/5) in [9ssi7/bank](https://github.com/9ssi7/bank)
-4. ❗ Opened issue [#4](https://github.com/9ssi7/bank/issues/4) in [9ssi7/bank](https://github.com/9ssi7/bank)
-5. 🎉 Merged PR [#3](https://github.com/9ssi7/bank/pull/3) in [9ssi7/bank](https://github.com/9ssi7/bank)
-6. 🎉 Merged PR [#2](https://github.com/9ssi7/bank/pull/2) in [9ssi7/bank](https://github.com/9ssi7/bank)
-7. 🎉 Merged PR [#1](https://github.com/9ssi7/bank/pull/1) in [9ssi7/bank](https://github.com/9ssi7/bank)
-8. 🚀 Published release [txnsql/v1.0.3](https://github.com/9ssi7/txn/releases/tag/txnsql/v1.0.3) in [9ssi7/txn](https://github.com/9ssi7/txn)
-9. 🎉 Merged PR [#3](https://github.com/9ssi7/txn/pull/3) in [9ssi7/txn](https://github.com/9ssi7/txn)
-10. 💪 Opened PR [#3](https://github.com/9ssi7/txn/pull/3) in [9ssi7/txn](https://github.com/9ssi7/txn)
+1. 🚀 Published release [v0.2.1](https://github.com/9ssi7/turnstile.tsx/releases/tag/v0.2.1) in [9ssi7/turnstile.tsx](https://github.com/9ssi7/turnstile.tsx)
+2. 🎉 Merged PR [#1](https://github.com/9ssi7/turnstile.tsx/pull/1) in [9ssi7/turnstile.tsx](https://github.com/9ssi7/turnstile.tsx)
+3. ❗ Opened issue [#7](https://github.com/9ssi7/bank/issues/7) in [9ssi7/bank](https://github.com/9ssi7/bank)
+4. ❗ Opened issue [#6](https://github.com/9ssi7/bank/issues/6) in [9ssi7/bank](https://github.com/9ssi7/bank)
+5. ❗ Opened issue [#5](https://github.com/9ssi7/bank/issues/5) in [9ssi7/bank](https://github.com/9ssi7/bank)
+6. ❗ Opened issue [#4](https://github.com/9ssi7/bank/issues/4) in [9ssi7/bank](https://github.com/9ssi7/bank)
+7. 🎉 Merged PR [#3](https://github.com/9ssi7/bank/pull/3) in [9ssi7/bank](https://github.com/9ssi7/bank)
+8. 🎉 Merged PR [#2](https://github.com/9ssi7/bank/pull/2) in [9ssi7/bank](https://github.com/9ssi7/bank)
+9. 🎉 Merged PR [#1](https://github.com/9ssi7/bank/pull/1) in [9ssi7/bank](https://github.com/9ssi7/bank)
+10. 🚀 Published release [txnsql/v1.0.3](https://github.com/9ssi7/txn/releases/tag/txnsql/v1.0.3) in [9ssi7/txn](https://github.com/9ssi7/txn)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
