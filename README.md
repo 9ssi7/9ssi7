@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/9ssi7/acc/releases/tag/v1.0.0) in [9ssi7/acc](https://github.com/9ssi7/acc)
-2. 🚀 Published release [v0.0.2](https://github.com/turistikrota/osm/releases/tag/v0.0.2) in [turistikrota/osm](https://github.com/turistikrota/osm)
-3. 🚀 Published release [v0.0.1](https://github.com/turistikrota/osm/releases/tag/v0.0.1) in [turistikrota/osm](https://github.com/turistikrota/osm)
-4. 🚀 Published release [v1.0.1](https://github.com/9ssi7/vkn/releases/tag/v1.0.1) in [9ssi7/vkn](https://github.com/9ssi7/vkn)
-5. 🚀 Published release [v1.0.4](https://github.com/9ssi7/kpspub/releases/tag/v1.0.4) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
-6. 🚀 Published release [v1.0.3](https://github.com/9ssi7/kpspub/releases/tag/v1.0.3) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
-7. 🚀 Published release [v1.0.0](https://github.com/9ssi7/vkn/releases/tag/v1.0.0) in [9ssi7/vkn](https://github.com/9ssi7/vkn)
-8. 🚀 Published release [v1.0.2](https://github.com/9ssi7/kpspub/releases/tag/v1.0.2) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
-9. 🚀 Published release [v1.0.1](https://github.com/9ssi7/kpspub/releases/tag/v1.0.1) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
-10. 🚀 Published release [v0.0.1](https://github.com/9ssi7/wfe/releases/tag/v0.0.1) in [9ssi7/wfe](https://github.com/9ssi7/wfe)
+1. 🚀 Published release [v0.0.3](https://github.com/turistikrota/osm/releases/tag/v0.0.3) in [turistikrota/osm](https://github.com/turistikrota/osm)
+2. 🚀 Published release [v1.0.0](https://github.com/9ssi7/acc/releases/tag/v1.0.0) in [9ssi7/acc](https://github.com/9ssi7/acc)
+3. 🚀 Published release [v0.0.2](https://github.com/turistikrota/osm/releases/tag/v0.0.2) in [turistikrota/osm](https://github.com/turistikrota/osm)
+4. 🚀 Published release [v0.0.1](https://github.com/turistikrota/osm/releases/tag/v0.0.1) in [turistikrota/osm](https://github.com/turistikrota/osm)
+5. 🚀 Published release [v1.0.1](https://github.com/9ssi7/vkn/releases/tag/v1.0.1) in [9ssi7/vkn](https://github.com/9ssi7/vkn)
+6. 🚀 Published release [v1.0.4](https://github.com/9ssi7/kpspub/releases/tag/v1.0.4) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
+7. 🚀 Published release [v1.0.3](https://github.com/9ssi7/kpspub/releases/tag/v1.0.3) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
+8. 🚀 Published release [v1.0.0](https://github.com/9ssi7/vkn/releases/tag/v1.0.0) in [9ssi7/vkn](https://github.com/9ssi7/vkn)
+9. 🚀 Published release [v1.0.2](https://github.com/9ssi7/kpspub/releases/tag/v1.0.2) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
+10. 🚀 Published release [v1.0.1](https://github.com/9ssi7/kpspub/releases/tag/v1.0.1) in [9ssi7/kpspub](https://github.com/9ssi7/kpspub)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
