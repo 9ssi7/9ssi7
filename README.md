@@ -7,11 +7,11 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Medium Articles
 
 <!-- ARTICLES:START -->
+- [Server-Side JavaScript and Golang | S0E1](https://9ssi7.medium.com/server-side-javascript-and-golang-s0e1-86d36ed6b758?source=rss-ced864c5b828------2)
 - [Embracing Functional Options in Go](https://9ssi7.medium.com/embracing-functional-options-in-go-05e00381f23e?source=rss-ced864c5b828------2)
 - [Go’s Decimal Dilemma: decimal vs Standard Library Showdown](https://9ssi7.medium.com/gos-decimal-dilemma-decimal-vs-standard-library-showdown-465f30ebab79?source=rss-ced864c5b828------2)
 - [Don’t Use Dependency Injection in Golang Projects](https://9ssi7.medium.com/dont-use-dependency-injection-in-golang-projects-8cbffc19b221?source=rss-ced864c5b828------2)
 - [Distributed Transaction Management in Go](https://9ssi7.medium.com/distributed-transaction-management-in-go-2fa9ef7b0350?source=rss-ced864c5b828------2)
-- [Sharing Go Modules as Nested](https://medium.com/goturkiye/sharing-go-modules-as-nested-ad64e608b681?source=rss-ced864c5b828------2)
 <!-- ARTICLES:END -->
 
 #### Latest Activity
