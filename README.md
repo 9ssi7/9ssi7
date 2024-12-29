@@ -7,11 +7,11 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Medium Articles
 
 <!-- ARTICLES:START -->
+- [Modern Web Development with Go: A Lightweight Alternative to React SSR](https://9ssi7.medium.com/modern-web-development-with-go-a-lightweight-alternative-to-react-ssr-cccce8631773?source=rss-ced864c5b828------2)
 - [Why Choose Caddy Server instead Nginx?](https://9ssi7.medium.com/why-choose-caddy-server-over-nginx-e49b01c631a1?source=rss-ced864c5b828------2)
 - [Passwordless Architecture](https://9ssi7.medium.com/passwordless-architecture-18d03e4dcb6a?source=rss-ced864c5b828------2)
 - [Server-Side JavaScript and Golang | S0E1](https://9ssi7.medium.com/server-side-javascript-and-golang-s0e1-86d36ed6b758?source=rss-ced864c5b828------2)
 - [Embracing Functional Options in Go](https://9ssi7.medium.com/embracing-functional-options-in-go-05e00381f23e?source=rss-ced864c5b828------2)
-- [Go’s Decimal Dilemma: decimal vs Standard Library Showdown](https://9ssi7.medium.com/gos-decimal-dilemma-decimal-vs-standard-library-showdown-465f30ebab79?source=rss-ced864c5b828------2)
 <!-- ARTICLES:END -->
 
 #### Latest Activity
