@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/aykutkardas/preact-icomoon/pull/1) in [aykutkardas/preact-icomoon](https://github.com/aykutkardas/preact-icomoon)
-2. 🗣 Commented on [#33523](https://github.com/expo/expo/pull/33523#issuecomment-2561876634) in [expo/expo](https://github.com/expo/expo)
-3. 💪 Opened PR [#33523](https://github.com/expo/expo/pull/33523) in [expo/expo](https://github.com/expo/expo)
-4. 🚀 Published release [v0.0.1](https://github.com/9ssi7/exponent/releases/tag/v0.0.1) in [9ssi7/exponent](https://github.com/9ssi7/exponent)
-5. 🚀 Published release [v0.0.4](https://github.com/turistikrota/osm/releases/tag/v0.0.4) in [turistikrota/osm](https://github.com/turistikrota/osm)
-6. 🚀 Published release [v1.0.1](https://github.com/9ssi7/gotp/releases/tag/v1.0.1) in [9ssi7/gotp](https://github.com/9ssi7/gotp)
-7. ❗ Opened issue [#2633](https://github.com/zen-browser/desktop/issues/2633) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-8. 🚀 Published release [v0.0.3](https://github.com/turistikrota/osm/releases/tag/v0.0.3) in [turistikrota/osm](https://github.com/turistikrota/osm)
-9. 🚀 Published release [v1.0.0](https://github.com/9ssi7/acc/releases/tag/v1.0.0) in [9ssi7/acc](https://github.com/9ssi7/acc)
-10. 🚀 Published release [v0.0.2](https://github.com/turistikrota/osm/releases/tag/v0.0.2) in [turistikrota/osm](https://github.com/turistikrota/osm)
+1. 🚀 Published release [v0.0.1](https://github.com/9ssi7/gormgis/releases/tag/v0.0.1) in [9ssi7/gormgis](https://github.com/9ssi7/gormgis)
+2. 💪 Opened PR [#1](https://github.com/aykutkardas/preact-icomoon/pull/1) in [aykutkardas/preact-icomoon](https://github.com/aykutkardas/preact-icomoon)
+3. 🗣 Commented on [#33523](https://github.com/expo/expo/pull/33523#issuecomment-2561876634) in [expo/expo](https://github.com/expo/expo)
+4. 💪 Opened PR [#33523](https://github.com/expo/expo/pull/33523) in [expo/expo](https://github.com/expo/expo)
+5. 🚀 Published release [v0.0.1](https://github.com/9ssi7/exponent/releases/tag/v0.0.1) in [9ssi7/exponent](https://github.com/9ssi7/exponent)
+6. 🚀 Published release [v0.0.4](https://github.com/turistikrota/osm/releases/tag/v0.0.4) in [turistikrota/osm](https://github.com/turistikrota/osm)
+7. 🚀 Published release [v1.0.1](https://github.com/9ssi7/gotp/releases/tag/v1.0.1) in [9ssi7/gotp](https://github.com/9ssi7/gotp)
+8. ❗ Opened issue [#2633](https://github.com/zen-browser/desktop/issues/2633) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+9. 🚀 Published release [v0.0.3](https://github.com/turistikrota/osm/releases/tag/v0.0.3) in [turistikrota/osm](https://github.com/turistikrota/osm)
+10. 🚀 Published release [v1.0.0](https://github.com/9ssi7/acc/releases/tag/v1.0.0) in [9ssi7/acc](https://github.com/9ssi7/acc)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
