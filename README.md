@@ -17,16 +17,16 @@ I am a software and product developer with a passion for building innovative sol
 #### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/9ssi7/rapidval/releases/tag/v0.0.3) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
-2. 🚀 Published release [v0.0.2](https://github.com/9ssi7/rapidval/releases/tag/v0.0.2) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
-3. 🚀 Published release [v0.0.1](https://github.com/9ssi7/rapidval/releases/tag/v0.0.1) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
-4. 🚀 Published release [v0.0.1](https://github.com/9ssi7/gormgis/releases/tag/v0.0.1) in [9ssi7/gormgis](https://github.com/9ssi7/gormgis)
-5. 💪 Opened PR [#1](https://github.com/aykutkardas/preact-icomoon/pull/1) in [aykutkardas/preact-icomoon](https://github.com/aykutkardas/preact-icomoon)
-6. 🗣 Commented on [#33523](https://github.com/expo/expo/pull/33523#issuecomment-2561876634) in [expo/expo](https://github.com/expo/expo)
-7. 💪 Opened PR [#33523](https://github.com/expo/expo/pull/33523) in [expo/expo](https://github.com/expo/expo)
-8. 🚀 Published release [v0.0.1](https://github.com/9ssi7/exponent/releases/tag/v0.0.1) in [9ssi7/exponent](https://github.com/9ssi7/exponent)
-9. 🚀 Published release [v0.0.4](https://github.com/turistikrota/osm/releases/tag/v0.0.4) in [turistikrota/osm](https://github.com/turistikrota/osm)
-10. 🚀 Published release [v1.0.1](https://github.com/9ssi7/gotp/releases/tag/v1.0.1) in [9ssi7/gotp](https://github.com/9ssi7/gotp)
+1. 🚀 Published release [deckvredis/v0.0.1](https://github.com/9ssi7/deckv/releases/tag/deckvredis/v0.0.1) in [9ssi7/deckv](https://github.com/9ssi7/deckv)
+2. 🚀 Published release [v0.0.1](https://github.com/9ssi7/deckv/releases/tag/v0.0.1) in [9ssi7/deckv](https://github.com/9ssi7/deckv)
+3. 🚀 Published release [v0.0.3](https://github.com/9ssi7/rapidval/releases/tag/v0.0.3) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
+4. 🚀 Published release [v0.0.2](https://github.com/9ssi7/rapidval/releases/tag/v0.0.2) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
+5. 🚀 Published release [v0.0.1](https://github.com/9ssi7/rapidval/releases/tag/v0.0.1) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
+6. 🚀 Published release [v0.0.1](https://github.com/9ssi7/gormgis/releases/tag/v0.0.1) in [9ssi7/gormgis](https://github.com/9ssi7/gormgis)
+7. 💪 Opened PR [#1](https://github.com/aykutkardas/preact-icomoon/pull/1) in [aykutkardas/preact-icomoon](https://github.com/aykutkardas/preact-icomoon)
+8. 🗣 Commented on [#33523](https://github.com/expo/expo/pull/33523#issuecomment-2561876634) in [expo/expo](https://github.com/expo/expo)
+9. 💪 Opened PR [#33523](https://github.com/expo/expo/pull/33523) in [expo/expo](https://github.com/expo/expo)
+10. 🚀 Published release [v0.0.1](https://github.com/9ssi7/exponent/releases/tag/v0.0.1) in [9ssi7/exponent](https://github.com/9ssi7/exponent)
 <!--END_SECTION:activity-->
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
