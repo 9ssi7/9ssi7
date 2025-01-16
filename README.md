@@ -1,8 +1,10 @@
 ## Hello there 👋
 
-I am a software and product developer with a passion for building innovative solutions and a knack for problem-solving. I possess a strong proficiency in Golang, JavaScript, and Docker, and I'm a lifelong learner, always seeking new challenges and opportunities to expand my skillset.
+I am a software engineer with a passion for building innovative solutions and a knack for problem-solving.
 
-💬 Ask me everything about Golang, everything about JavaSript, everything about Docker and Cloudflare Services.
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=go,ts,java,react,vue,htmx,cloudflare,aws,gcp,docker,kubernetes,grafana,prometheus,elasticsearch,mongodb,dynamodb,postgres,rabbitmq,kafka&perline=10" />
+ </p>
 
 #### Latest Medium Articles
 
@@ -13,36 +15,6 @@ I am a software and product developer with a passion for building innovative sol
 - [Why Choose Caddy Server instead Nginx?](https://9ssi7.medium.com/why-choose-caddy-server-over-nginx-e49b01c631a1?source=rss-ced864c5b828------2)
 - [Passwordless Architecture](https://engineering.turistikrota.com/passwordless-architecture-18d03e4dcb6a?source=rss-ced864c5b828------2)
 <!-- ARTICLES:END -->
-
-#### Latest Activity
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [deckvredis/v0.0.1](https://github.com/9ssi7/deckv/releases/tag/deckvredis/v0.0.1) in [9ssi7/deckv](https://github.com/9ssi7/deckv)
-2. 🚀 Published release [v0.0.1](https://github.com/9ssi7/deckv/releases/tag/v0.0.1) in [9ssi7/deckv](https://github.com/9ssi7/deckv)
-3. 🚀 Published release [v0.0.3](https://github.com/9ssi7/rapidval/releases/tag/v0.0.3) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
-4. 🚀 Published release [v0.0.2](https://github.com/9ssi7/rapidval/releases/tag/v0.0.2) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
-5. 🚀 Published release [v0.0.1](https://github.com/9ssi7/rapidval/releases/tag/v0.0.1) in [9ssi7/rapidval](https://github.com/9ssi7/rapidval)
-6. 🚀 Published release [v0.0.1](https://github.com/9ssi7/gormgis/releases/tag/v0.0.1) in [9ssi7/gormgis](https://github.com/9ssi7/gormgis)
-7. 💪 Opened PR [#1](https://github.com/aykutkardas/preact-icomoon/pull/1) in [aykutkardas/preact-icomoon](https://github.com/aykutkardas/preact-icomoon)
-8. 🗣 Commented on [#33523](https://github.com/expo/expo/pull/33523#issuecomment-2561876634) in [expo/expo](https://github.com/expo/expo)
-9. 💪 Opened PR [#33523](https://github.com/expo/expo/pull/33523) in [expo/expo](https://github.com/expo/expo)
-10. 🚀 Published release [v0.0.1](https://github.com/9ssi7/exponent/releases/tag/v0.0.1) in [9ssi7/exponent](https://github.com/9ssi7/exponent)
-<!--END_SECTION:activity-->
-
-[![committers.top badge](https://user-badge.committers.top/turkey_private/9ssi7.svg)](https://user-badge.committers.top/turkey_private/9ssi7)
-
-<p align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&theme=dark&hide_border=true&border_radius=10"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&hide_border=true&border_radius=10"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&hide_border=true&border_radius=10" />
-</picture>
 
 <picture>
   <source
