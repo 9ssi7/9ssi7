@@ -2,7 +2,7 @@
 
 I am a software engineer with a passion for building innovative solutions and a knack for problem-solving.
 
-<p align="center">
+<p >
     <img src="https://skillicons.dev/icons?i=go,ts,java,react,vue,htmx,cloudflare,aws,gcp,docker,kubernetes,grafana,prometheus,elasticsearch,mongodb,dynamodb,postgres,rabbitmq,kafka&perline=10" />
  </p>
 
