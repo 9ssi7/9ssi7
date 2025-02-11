@@ -1,9 +1,54 @@
-### A Software Engineer in Turkiye. 
+# Hi there, I'm 9ssi7! 👋
 
-SWE at [MonoPayments](https://github.com/monopayments);<br>
-Founding SWE at [Turistik Rota](https://github.com/turistikrota);<br>
+I'm a passionate software developer with a love for creating innovative and efficient solutions. I thrive in collaborative environments and enjoy tackling challenging problems. Here's a bit more about me:
 
-- 🫶 I like to use Golang, JavaScript and Cloudflare Services but I can also like any tool.
-- 🆙 I like to publish iterative approaches as small libraries and contribute to open source works that I can improve upon.
-- 💬 `ping` me about **whatever you want**
+<p>
+    <img src="https://skillicons.dev/icons?i=go,ts,react,vue,cloudflare,aws,docker,kubernetes,grafana,prometheus,elasticsearch,mongodb,postgres,rabbitmq,kafka,linux&perline=8" />
+ </p>
 
+## 🔭 What I'm Currently Working On
+- Enhancing my skills in machine learning and AI.
+- Contributing to open-source projects.
+- Building a personal project that integrates IoT with cloud services.
+
+## 🌱 What I'm Learning
+- Advanced algorithms and data structures.
+- Cloud computing with AWS and Azure.
+- DevOps practices and CI/CD pipelines.
+
+## 💬 Ask Me About
+- Full-stack web development.
+- Go, JavaScript programming.
+- Open-source contributions and best practices.
+
+## 📫 How to Reach Me
+- Email: contact@9ssi7.dev
+- LinkedIn: [linkedin.com/in/9ssi7](https://linkedin.com/in/9ssi7)
+- X: [x.com/9ssi7](https://x.com/9ssi7)
+
+<picture>
+  <source
+    srcset="[https://github-readme-streak-stats.herokuapp.com?user=9ssi7&theme=dark&hide_border=true&border_radius=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=9ssi7&hide_border=true&border_radius=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=9ssi7&hide_border=true&border_radius=10" />
+</picture>
+
+## ⚡ Fun Fact
+- I love hiking and have conquered several challenging trails across the world!
+
+## 🛠️ Languages and Tools
+- **Programming Languages:** Go, JavaScript
+- **Cloud Services:** AWS, Cloudflare
+- **Observability Tools:** Grafana, Prometheus, Jaeger
+- **Databases:** PostgreSQL, MongoDB, Redis or Any Cloud DB
+- **Tools:** Git, Docker, Kubernetes
+
+## 📈 GitHub Stats
+![9ssi7's GitHub stats](https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&theme=radical)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just have a chat. 😊
