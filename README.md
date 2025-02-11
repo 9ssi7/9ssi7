@@ -26,18 +26,6 @@ I'm a passionate software developer with a love for creating innovative and effi
 - LinkedIn: [linkedin.com/in/9ssi7](https://linkedin.com/in/9ssi7)
 - X: [x.com/9ssi7](https://x.com/9ssi7)
 
-<picture>
-  <source
-    srcset="[https://github-readme-streak-stats.herokuapp.com?user=9ssi7&theme=dark&hide_border=true&border_radius=10"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=9ssi7&hide_border=true&border_radius=10"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com/?user=9ssi7&hide_border=true&border_radius=10" />
-</picture>
-
 ## ⚡ Fun Fact
 - I love hiking and have conquered several challenging trails across the world!
 
