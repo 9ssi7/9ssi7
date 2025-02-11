@@ -1,4 +1,4 @@
-# Hi there, I'm 9ssi7! 👋
+# Hi there, I'm Salih! 👋
 
 I'm a passionate software developer with a love for creating innovative and efficient solutions. I thrive in collaborative environments and enjoy tackling challenging problems. Here's a bit more about me:
 
