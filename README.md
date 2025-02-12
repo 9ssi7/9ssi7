@@ -1,25 +1,10 @@
 # Hi there, I'm Salih! 👋
 
-I'm a passionate software developer with a love for creating innovative and efficient solutions. I thrive in collaborative environments and enjoy tackling challenging problems. Here's a bit more about me:
+I'm a passionate software developer with a love for creating innovative and efficient solutions. I thrive in collaborative environments and enjoy tackling challenging problems.
 
 <p>
     <img src="https://skillicons.dev/icons?i=go,ts,react,vue,cloudflare,aws,docker,kubernetes,grafana,prometheus,elasticsearch,mongodb,postgres,rabbitmq,kafka,linux&perline=8" />
  </p>
-
-## 🔭 What I'm Currently Working On
-- Enhancing my skills in machine learning and AI.
-- Contributing to open-source projects.
-- Building a personal project that integrates IoT with cloud services.
-
-## 🌱 What I'm Learning
-- Advanced algorithms and data structures.
-- Cloud computing with AWS and Azure.
-- DevOps practices and CI/CD pipelines.
-
-## 💬 Ask Me About
-- Full-stack web development.
-- Go, JavaScript programming.
-- Open-source contributions and best practices.
 
 ## 📫 How to Reach Me
 - Email: contact@9ssi7.dev
@@ -38,5 +23,3 @@ I'm a passionate software developer with a love for creating innovative and effi
 
 ## 📈 GitHub Stats
 ![9ssi7's GitHub stats](https://github-readme-stats.vercel.app/api?username=9ssi7&show_icons=true&theme=radical)
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just have a chat. 😊
